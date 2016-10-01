@@ -1,0 +1,9 @@
+body{
+  padding: 100px 48%;
+}
+a {
+  display: block;
+  font-size: 32px;
+  color: #424242;
+  margin-bottom: 20px;
+}
